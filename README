@@ -1,0 +1,8 @@
+1 - Cree une base dans mysql et executer strucutre.sql
+2 - Modifier config.php en accordance avec la base sql
+3 - Faire des liens symbolique des dossier à indexe dans le dossier data
+4 - Modifier les dossiers series dans le fichier config.php ou dans l'administration
+5 - Enjoy
+
+By teebo https://github.com/teebo/VideoStation
+Modified by Loïc PORTE (@bewiwi)
